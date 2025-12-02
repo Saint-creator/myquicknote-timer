@@ -348,4 +348,7 @@ button:disabled {
   color: #6b7280;
 }
 
-/* Daily secti*
+/* Daily section styles */
+.daily-section {
+  padding: 1rem;
+}
