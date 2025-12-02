@@ -2,3 +2,13 @@ QuickNote Timer
 A minimalist productivity tool for tracking focused work sessions taking quick notes, and analyzing your daily performance 
 Live Demo: coming.....
 GitHub Repo: https://github.com/Saint-creator/myquicknote-timer
+
+Overview 
+QuickNote Timer helps users stay focused, track what you're working on and analyze your productivity 
+it includes: 
+A simple timer 
+notes for each session 
+automatically stores each session 
+gives daily productivity stats 
+dark and light mode toggle
+gives average time spent on tasks and so on
